@@ -11,4 +11,6 @@ Student Info
 
 * Student Name: USTH ICT1 
 * Student ID: Not-Vietnamese
+* Student Name: Trinh Nhat Huy
+* Student ID: 23BI14193
 
